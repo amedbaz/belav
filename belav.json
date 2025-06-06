@@ -1,10 +1,20 @@
 {
-  "belavi":[
- 
-  "https://thumbs.dreamstime.com/b/spring-wallpaper-creating-award-winning-photograph-pic-encapsulates-timeless-beauty-tranquility-nature-351383535.jpg",
-     "https://thumbs.dreamstime.com/b/spring-wallpaper-creating-award-winning-photograph-pic-encapsulates-timeless-beauty-tranquility-nature-351383535.jpg",
-     "https://thumbs.dreamstime.com/b/spring-wallpaper-creating-award-winning-photograph-pic-encapsulates-timeless-beauty-tranquility-nature-351383535.jpg",
-     "https://thumbs.dreamstime.com/b/spring-wallpaper-creating-award-winning-photograph-pic-encapsulates-timeless-beauty-tranquility-nature-351383535.jpg"
-
- ]
+  "belavi": [
+    {
+      "image": "https://thumbs.dreamstime.com/b/spring-wallpaper-creating-award-winning-photograph-pic-encapsulates-timeless-beauty-tranquility-nature-351383535.jpg",
+      "link": "https://www.facebook.com"
+    },
+    {
+      "image": "https://thumbs.dreamstime.com/b/spring-wallpaper-creating-award-winning-photograph-pic-encapsulates-timeless-beauty-tranquility-nature-351383535.jpg",
+      "link": "https://www.npmjs.com/package/react-native-swiper-flatlist"
+    },
+    {
+      "image": "https://thumbs.dreamstime.com/b/spring-wallpaper-creating-award-winning-photograph-pic-encapsulates-timeless-beauty-tranquility-nature-351383535.jpg",
+      "link": "https://example3.com"
+    },
+    {
+      "image": "https://thumbs.dreamstime.com/b/spring-wallpaper-creating-award-winning-photograph-pic-encapsulates-timeless-beauty-tranquility-nature-351383535.jpg",
+      "link": "https://example4.com"
+    }
+  ]
 }
